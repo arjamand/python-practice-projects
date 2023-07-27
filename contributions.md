@@ -13,4 +13,4 @@ Please note that this project follows the [Code of Conduct](CODE_OF_CONDUCT.md).
 2. Clone the Repository: Clone the forked repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/python-beginner-to-intermediate-projects.git
+   git clone https://github.com/arjamand/python-beginner-to-intermediate-projects.git
