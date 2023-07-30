@@ -44,5 +44,5 @@ Contributions to this project are welcome! If you find any issues or want to add
 ## License
 This project is licensed under the MIT License.
 
-pls don't forget to leave a star if liked the project or it was helpful in aomeway . 
+pls don't forget to leave a star if liked the project or it was helpful in someway . 
 
